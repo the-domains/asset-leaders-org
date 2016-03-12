@@ -1,0 +1,28 @@
+name: asset leaders.org
+favicon: null
+layout_spectrum: 0.4836759096942842
+typography_spectrum: 0.7420812966302037
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8478780961595476
+  lightness: 0.2979733736719936
+  saturation: 0.42275174357928336
+  rhythmicContrast: 0.16983390925452113
+purpose: []
